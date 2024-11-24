@@ -1,0 +1,44 @@
+functions :
+-------------------------------------------------
+->function is a small block of code 
+->function is known as modular programming 
+->functions is used for code reusability 
+
+------------------------------------------------------------
+types of function :
+a)predefine function :printf(), scanf()
+
+b)userdefine function :
+	no return and no argument 
+	no return and argument 
+	return and no argument 
+	return and argument 
+--------------------------------------------------------------
+function creation ways :
+a)function declaration
+b)function definition
+c)function call 
+--------------------------------------------------------------
+
+a)function declaration :
+syntax:
+	return_type function_name();
+
+
+b)function definition
+syntax:
+	return_type function_name() {
+	//code 
+}
+
+c)function call:
+function_name();
+---------------------------------------------------------------
+#include<stdio.h>
+//function declaration 
+int main(){
+    //function call
+    return 0;
+}
+//function defination 
+---------------------------------------------------------------
